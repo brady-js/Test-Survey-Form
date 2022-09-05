@@ -1,0 +1,59 @@
+body {
+  background-image: linear-gradient(45deg, red, blue, purple, orange);
+  background-size: cover;
+  color: white;
+  margin: auto;
+  width: 500px;
+  text-align: center;
+  font-family: Tahoma;
+  margin-top: 30px;5
+}
+
+p {
+  padding: 15px;
+}
+
+#survey-form{
+  border: 3px solid white;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+select {
+  margin-top: 15px;
+}
+
+.Personal {
+  padding: 0;
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.checklist {
+  padding: unset;
+  text-decoration: underline;
+  font-size: 18px;
+}
+label {
+  display: block;
+}
+
+input {
+  margin: 10px;
+}
+main {
+  width: 500px;
+}
+
+textarea {
+  width: 350px;
+  height:75px;
+}
+
+#submit {
+  width: 300px;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 15px;
+}
